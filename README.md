@@ -1,21 +1,10 @@
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="left">
-      <img src="https://oneentry.cloud/img/git/oneenrty_light.png" alt="OneEntry Plaform" width="200" />
-    </td>
-    <td align="right">
-      <a href="https://discord.gg/b7SmTC97">
-        <img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+<img src="https://oneentry.cloud/img/git/oneenrty_light.png" alt="OneEntry Plaform" width="200" />
 
 # OneEntry next.js shop example
 
 [App Promo Page](https://oneentry-free-template-e-commerce-nextjs.vercel.app 'DEMO')
 
-
+[![Join our Discord](https://img.shields.io/badge/Discord-Join%20Community-blue?logo=discord&logoColor=white)](https://discord.gg/b7SmTC97)
 
 # OneEntry Plaform E-commerce Template
 
